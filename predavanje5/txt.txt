@@ -1,0 +1,2 @@
+                         id submited_ad name email academy_major academy_year motivation prior_knowledge prior_language
+1 2016­11­03 17:59:20 ime email@etfos.hr racunarstvo 2 volim to blablabla java
