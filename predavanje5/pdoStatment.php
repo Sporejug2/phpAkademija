@@ -2,7 +2,7 @@
 
 header('Content-Type: text/plain');
 
-$dsn = 'mysql:host=localhost;dbname=studentc;charset=utf8';
+$dsn = 'mysql:host=localhost;dbname=studentcgit ;charset=utf8';
 $username = 'root';
 $password = '';
 
@@ -28,7 +28,7 @@ $stmt->execute([
     'id' => $id,
         ]); 
 
-foreach ($stmt as $row) { // nacin koji nije ba≈° zabavan
+foreach ($stmt as $row) { // nacin koji nije baö zabavan
     print $row['id'] . "\t";
     print $row['name'] . "\t";
     print $row['email'] . "\n";
