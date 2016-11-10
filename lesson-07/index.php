@@ -57,5 +57,9 @@ xdebug.remote_enable = 1
  * wireframing - kostur skica kako bi izgledala stranica , hedar , footer , 
  * upload public fotke , load mode , pluginacija 1,2,3 , login samo za nas , login page , lightbox gdje ce biti slika title , share facebook , share google , share twiter, coments submit form gdje se submita , 
  * forma za ulogirane upload slike , nime , private ili public , ako kliknem filter da se vidi što treba biti.
- *  
+ * pictures _id
+ * comments/id/picture_id/content/ strani ključ , provjera unikatnosti , id unikatnost.
+ * bvujnovac@gmail.com
+ * mail
+ * 
  */
